@@ -1,9 +1,4 @@
-.jumbotron {
-	height: 240px;
-	background-color: #5cb85c;
-	color: white;
-}
-
 #enter {
-	width: 240px
+	font-size: 2em;
+	height: 64px;
 }
