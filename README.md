@@ -1,1 +1,1 @@
-See stldevs.com
+See http://www.stldevs.com
