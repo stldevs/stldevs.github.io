@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Working for a startup
-categories: devs
+categories: [developers]
 ---
 
 What is it like working for a startup?

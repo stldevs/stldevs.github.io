@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Start a company in StL
-categories: ents
+categories: entrepreneurs
 ---
 
 Why start a company in St Louis?
