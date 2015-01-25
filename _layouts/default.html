@@ -47,22 +47,8 @@
                         {% endfor %}
                     </ul>
                 </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Organizations <span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                        {% for post in site.categories['organizations'] %}
-                        <li><a href="{{post.url}}">{{ post.title }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Startups <span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                        {% for post in site.categories['startups'] %}
-                        <li><a href="{{post.url}}">{{ post.title }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </li>
+                <li><a href="{{site.baseurl}}/organizations">Organizations</a>
+                <li><a href="{{site.baseurl}}/jobs">Jobs</a>
             </ul>
         </div>
     </div>
